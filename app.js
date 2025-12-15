@@ -1,6 +1,6 @@
 
 // ========================================
-// NOIR FASHION - COMPLETE JAVASCRIPT
+// NOIR FASHION - COMPLETE JAVASCRIPT.
 // ========================================
 
 // === SMOOTH SCROLLING ===
